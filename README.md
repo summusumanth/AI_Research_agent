@@ -138,6 +138,3 @@ The agentic workflow is in `src/services/agents/`: `agentic_rag.py` builds the
 LangGraph graph, `state.py` holds the shared state, and `nodes/` contains the
 guardrail, retrieve, grade, rewrite, and generate nodes.
 
-## License
-
-MIT — Copyright (c) 2025 Sumanth Mandavalli. See LICENSE.
